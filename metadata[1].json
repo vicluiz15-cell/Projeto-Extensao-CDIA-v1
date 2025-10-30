@@ -1,0 +1,5 @@
+{
+  "name": "UnisoVet - Gestão de Clínica Veterinária",
+  "description": "Um aplicativo de gerenciamento para clínicas veterinárias, permitindo o controle de clientes, pets e agendamentos de forma simples e eficiente.",
+  "requestFramePermissions": []
+}
